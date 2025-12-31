@@ -24,8 +24,8 @@ Terraform
 Git & GitHub
 Linux (Ubuntu / WSL)
 VS Code
-
-📂 <b>Project Structure<b>
+---
+## 📂 <b>Project Structure<b>
 .
 ├── main.tf
 ├── variables.tf
@@ -37,7 +37,7 @@ VS Code
     ├── igw
     ├── security_group
     └── ec2
-
+---
 <b> What This Project Demonstrates<b>
 
 Modular Terraform design
