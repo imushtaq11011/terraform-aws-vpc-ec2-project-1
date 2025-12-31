@@ -25,8 +25,7 @@ Git & GitHub
 Linux (Ubuntu / WSL)
 VS Code
 ---
-## 📂 <b>Project Structure<b>
-.
+## 📂 Project Structure
 ├── main.tf
 ├── variables.tf
 ├── terraform.tfvars
